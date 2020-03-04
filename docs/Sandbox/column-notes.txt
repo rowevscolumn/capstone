@@ -1,0 +1,61 @@
+GameId - DELETE
+PlayId - Use as Index
+Team			)
+isHomeTeam		)
+X - DELETE IF VARIANCE IS TOO LOW
+Y - DELETE IF TOO SIMILAR TO YARDS
+S
+A
+Dis - DELETE (LOW VARIANCE) (???)
+Orientation - DELETE IF VARIANCE IS TOO LOW (???)
+Dir - DELETE IF VARIANCE IS TOO LOW (???)
+NflId - DELETE (DUPE OF NFLIDRusher) 
+DisplayName - String (DELETE BUT STORE FOR FUTURE USE)
+JerseyNumber - DELETE (Irrelevant)
+Season
+YardLine - (CALCULATED TO YardsToTouchdown)
+Quarter
+GameClock - DELETE (UNNECESSARY)
+PossessionTeam		)
+PossessionTeamAbbrCode	)
+Down
+Distance
+FieldPosition		) - DELETE (USE YARDSTOTOUCHDOWN)
+FieldPositionCode	) - DELETE (USE YARDSTOTOUCHDOWN)
+HomeScoreBeforePlay	===== Calculate deficit/lead
+VisitorScoreBeforePlay  =====
+NflIdRusher
+OffenseFormation
+OffensePersonnel - DELETE (TOO COMPLICATED)
+DefendersInTheBox
+DefensePersonnel - DELETE (TOO COMPLICATED)
+PlayDirection - DELETE? POSSIBLE REDUNDANT
+TimeHandoff
+TimeSnapDiff
+TimeSnap
+Yards			)
+YardsToTouchdown	)
+PlayerHeight - DELETE
+PlayerHeightFt - DELETE
+PlayerHeightIn - DELETE
+PlayerHeightInches
+PlayerWeight
+PlayerBirthDate - DELETE (Calculated)
+Age
+PlayerCollegeName ===== Dictionary
+Position - DELETE CHECK VARIANCE
+HomeTeamAbbr 		)
+HomeTeamAbbrCode	)
+VisitorTeamAbbr		)
+VisitorTeamAbbrCode	)
+Week
+Stadium - DELETE, NOT GOING TO COMPARE WITH THAT, Dome / NOT Dome create
+Location - DELETE
+StadiumType
+Turf
+GameWeather - BREAK DOWN TO NEW FIELDS
+Temperature - (GET AVERAGES FROM OTHER SOURCES)
+Humidity - (GET AVERAGES FROM OTHER SOURCES)
+WindSpeed - DELETE
+WindDirection - DELETE
+isFirstDown (PREDICTIVE)
