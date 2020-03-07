@@ -1,1 +1,2 @@
 http://writeonline.ca/litreview.php?content=intro
+https://www.activestate.com/blog/exploratory-data-analysis-using-python/?utm_campaign=exploratory-data-analysis-blog&utm_medium=referral&utm_source=kdnuggets&utm_content=2019-08-07-kdnuggets-article
