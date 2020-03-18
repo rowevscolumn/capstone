@@ -21,28 +21,28 @@ The purpose of this project is to create a classification and predictive model w
 The [data set can be found on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020), you need to download it to run the scripts and place it in data/raw directory.
 
 ## Featured Notebooks/Analysis/Deliverables
-* [01 - Cleaning Raw Data](https://github.com/rowevscolumn/capstone/blob/master/notebooks.01%20-%20Cleaning%20Raw%20Data.ipynb)
+* [01 - Cleaning Raw Data](https://github.com/rowevscolumn/capstone/blob/master/notebooks/01%20-%20Cleaning%20Raw%20Data.ipynb)
   - All the cleaning of the raw data into a technically correct format
-* [02 - Univariate Analysis](https://github.com/rowevscolumn/capstone/blob/master/notebooks.02%20-%20Univariate%20Analysis.ipynb)
+* [02 - Univariate Analysis](https://github.com/rowevscolumn/capstone/blob/master/notebooks/02%20-%20Univariate%20Analysis.ipynb)
   - Bar graphs and box plots to analyze the attributes, cleaning outliers and removing identifying data
-* [03 - Bivariate Analysis](https://github.com/rowevscolumn/capstone/blob/master/notebooks.03%20-%20Bivariate%20Analysis.ipynb)
+* [03 - Bivariate Analysis](https://github.com/rowevscolumn/capstone/blob/master/notebooks/03%20-%20Bivariate%20Analysis.ipynb)
   - Low variance check and Correlation Heatmap
-* [04 - Dimensionality Reduction](https://github.com/rowevscolumn/capstone/blob/master/notebooks.04%20-%20Dimensionalty%20Reduction.ipynb)
+* [04 - Dimensionality Reduction](https://github.com/rowevscolumn/capstone/blob/master/notebooks/04%20-%20Dimensionalty%20Reduction.ipynb)
   - Variance threshold, backward elimination, recursive feature elimination and embedded method for the final steps of feature selection
-* [05 - Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.05%20-%20Oversampling.ipynb)
+* [05 - Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/05%20-%20Oversampling.ipynb)
   - Oversampling and Undersampling the data, into two separate data files
-* [111 - Logistic Regression Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.111%20-%20Logistic%20Regression%20Oversampling.ipynb)
-* [112 - Logistic Regression Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.112%20-%20Logistic%20Regression%20Undersampling.ipynb)
-* [113 - Logistic Regression PCA](https://github.com/rowevscolumn/capstone/blob/master/notebooks.113%20-%20Logistic%20Regression%20PCA.ipynb)
+* [111 - Logistic Regression Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/111%20-%20Logistic%20Regression%20Oversampling.ipynb)
+* [112 - Logistic Regression Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/112%20-%20Logistic%20Regression%20Undersampling.ipynb)
+* [113 - Logistic Regression PCA](https://github.com/rowevscolumn/capstone/blob/master/notebooks/113%20-%20Logistic%20Regression%20PCA.ipynb)
   - Using Python's Logistic Regression to make a predictive model.
-* [121 - Decision Tree Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.121%20-%20Decision%20Tree%20Oversampling.ipynb)
-* [122 - Decision Tree Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.122%20-%20Decision%20Tree%20Undersampling.ipynb)
+* [121 - Decision Tree Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/121%20-%20Decision%20Tree%20Oversampling.ipynb)
+* [122 - Decision Tree Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/122%20-%20Decision%20Tree%20Undersampling.ipynb)
   - Creating a Decision Tree for classification and prediction.
-* [131 - Random Forest Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.131%20-%20Random%20Forest%20Oversampling.ipynb)
-* [132 - Random Forest Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.132%20-%20Random%20Forest%20Undersampling.ipynb)
+* [131 - Random Forest Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/131%20-%20Random%20Forest%20Oversampling.ipynb)
+* [132 - Random Forest Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/132%20-%20Random%20Forest%20Undersampling.ipynb)
 - Creating a Random Forest for classification to see if the accuracy is better than Decision Tree.
-* [141 - K-Nearest Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.141%20-%20K-Nearest%20Oversampling.ipynb)
-* [142 - K-Nearest Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks.142%20-%20K-Nearest%20Undersampling.ipynb)
+* [141 - K-Nearest Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/141%20-%20K-Nearest%20Oversampling.ipynb)
+* [142 - K-Nearest Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/142%20-%20K-Nearest%20Undersampling.ipynb)
   - Creating a K-Nearest Neighbor classification model
 
 
