@@ -1,6 +1,3 @@
-# capstone
-*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
-
 # Ryerson Winter 2020 Capstone Project
 This project is part of the [capstone project](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do;jsessionid=1A27012141908DF0EBDA27F4216447CA?method=load&courseId=26431), as part of the [Data Analytics, Big Data, and Predictive Analytics](https://continuing.ryerson.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=171618) fast track course. Each student looks for a data set and gives an analysis report and presentation.
 
@@ -15,8 +12,7 @@ The purpose of this project is to create a classification and predictive model w
 * MatPlotLib and Seaborn
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
+The objective of this project is to take the dataset of all running plays from 2017-2019 and see if we can see the factors that go into making a first down. This will be done by using machine learning methods like Logistic Regression, Decision Tree and Random Forest, and K-Nearest Neighbors. This will be done with the data, using oversampling and undersampling, and using Principal Component Analysis, and using that to see if we can make a prediction model. All methods used will be compared with each accuracy, precision, recall and F-Score at the end to see which method is better. Visualization methods, as well as some data mining techniques, will be used to identify the features that make the most impact with the data. 
 
 The [data set can be found on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020), you need to download it to run the scripts and place it in data/raw directory.
 
