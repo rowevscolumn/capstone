@@ -41,7 +41,7 @@ The [data set can be found on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl
 * [142 - K-Nearest Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/142%20-%20K-Nearest%20Undersampling.ipynb)
   - Creating a K-Nearest Neighbor classification model
 * [201 - Initial Report](https://github.com/rowevscolumn/capstone/blob/master/notebooks/201%20-%20Initial%20Report.ipynb)
-  - Creating a K-Nearest Neighbor classification model
+  - Some random thoughts collected of what was discovered from all the machine learning methods.
 
 [Christopher Rowe](https://github.com/rowevscolumn)
-Last updated: March 21st, 2020
+Last updated: March 23rd, 2020
