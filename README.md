@@ -1,7 +1,7 @@
 # Ryerson Winter 2020 Capstone Project
 This project is part of the [capstone project](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do;jsessionid=1A27012141908DF0EBDA27F4216447CA?method=load&courseId=26431), as part of the [Data Analytics, Big Data, and Predictive Analytics](https://continuing.ryerson.ca/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=171618) fast track course. Each student looks for a data set and gives an analysis report and presentation.
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Ongoing]
 
 ## Project Intro/Objective
 The purpose of this project is to create a classification and predictive model with the NFL dataset. The data comes from the [Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020) website, given by the National Football League, is a collection of every running play from Week 1 of 2017 to Week 12 of 2019. The objective of this project is to see if we can find a way if  we can predict if the play will successfully make the first down.
@@ -40,7 +40,8 @@ The [data set can be found on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl
 * [141 - K-Nearest Oversampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/141%20-%20K-Nearest%20Oversampling.ipynb)
 * [142 - K-Nearest Undersampling](https://github.com/rowevscolumn/capstone/blob/master/notebooks/142%20-%20K-Nearest%20Undersampling.ipynb)
   - Creating a K-Nearest Neighbor classification model
-
+* [201 - Initial Report](https://github.com/rowevscolumn/capstone/blob/master/notebooks/201%20-%20Initial%20Report.ipynb)
+  - Creating a K-Nearest Neighbor classification model
 
 [Christopher Rowe](https://github.com/rowevscolumn)
-Last updated: March 16th, 2020
+Last updated: March 21st, 2020
